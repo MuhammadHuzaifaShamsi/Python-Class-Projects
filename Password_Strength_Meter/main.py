@@ -1,6 +1,5 @@
 import streamlit as st
 import re
-import pyperclip
 
 st.set_page_config(page_title="HUX Password Strength Meter")
 
