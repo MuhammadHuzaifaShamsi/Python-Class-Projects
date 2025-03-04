@@ -3,7 +3,9 @@
 # 🚀 My Python Projects
 
 Welcome to my **Python Projects Repository**! 🐍
+<br>
 Here, you'll find all the Python projects I develop during my class.
+<br>
 Each project is hosted on **Streamlit**, so you can explore them in action!
 
 ## 👨‍💻 About Me
