@@ -1,8 +1,10 @@
 ![Python Projects](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
-# 🚀 Huzaifa's Python Projects
+# 🚀 My Python Projects
 
-Welcome to my **Python Projects Repository**! 🐍 Here, you'll find all the Python projects I develop during my class. Each project is hosted on **Streamlit**, so you can explore them in action!
+Welcome to my **Python Projects Repository**! 🐍
+Here, you'll find all the Python projects I develop during my class.
+Each project is hosted on **Streamlit**, so you can explore them in action!
 
 ## 👨‍💻 About Me
 - **Name:** Huzaifa
@@ -16,7 +18,6 @@ Welcome to my **Python Projects Repository**! 🐍 Here, you'll find all the Pyt
 A simple yet powerful unit converter for various measurements.
 🔗 **[Live Demo](https://your-streamlit-link.com/unit_converter)**
 
-![Unit Converter](https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif)
 
 ---
 
@@ -24,7 +25,6 @@ A simple yet powerful unit converter for various measurements.
 Check the strength of your password with this interactive tool!
 🔗 **[Live Demo](https://your-streamlit-link.com/password_strength_meter)**
 
-![Password Strength Meter](https://media.giphy.com/media/l2R09IC3fX1Y0JYFa/giphy.gif)
 
 ---
 
