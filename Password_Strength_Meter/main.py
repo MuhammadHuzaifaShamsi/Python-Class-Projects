@@ -47,7 +47,3 @@ if password:
     if strength == "Strong":
         st.markdown("### 📋 Copy Password:")
         st.text_area("Copy this password:", password, height=70)
-
-        if st.button("📋 Copy to Clipboard", key="copy_btn"):
-            pyperclip.copy(password)
-            st.success("✅ Password copied to clipboard!")
