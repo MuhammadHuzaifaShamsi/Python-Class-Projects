@@ -46,4 +46,4 @@ if password:
 
     if strength == "Strong":
         st.markdown("### 📋 Copy Password:")
-        st.text_area("Copy this password:", password, height=70)
+        st.code(password, language="plaintext")
