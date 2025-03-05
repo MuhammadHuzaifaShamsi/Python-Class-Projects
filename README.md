@@ -24,7 +24,7 @@ Each project is hosted on **Streamlit**, so you can explore them in action!
 ### 🔄 Unit Converter
 A simple yet powerful unit converter for various measurements.
 <br>
-🔗 **[Live Demo](https://your-streamlit-link.com/unit_converter)**
+🔗 **[Live Demo]([https://your-streamlit-link.com/unit_converter](https://hux-unit-converter.streamlit.app/))**
 
 <br>
 ---
@@ -32,7 +32,7 @@ A simple yet powerful unit converter for various measurements.
 ### 🔒 Password Strength Meter
 Check the strength of your password with this interactive tool!
 <br>
-🔗 **[Live Demo](https://your-streamlit-link.com/password_strength_meter)**
+🔗 **[Live Demo]([https://your-streamlit-link.com/password_strength_meter](https://hux-password-strength-meter.streamlit.app/))**
 
 <br>
 ---
